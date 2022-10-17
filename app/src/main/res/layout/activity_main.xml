@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@mipmap/background_sec"
+    android:orientation="vertical"
+    android:gravity="bottom"
+    tools:context=".Main">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="bottom">
+        <Button
+            android:id="@+id/ci1"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+
+            android:background="@mipmap/pokerback"
+            android:textColor="#FF0000"
+            android:text="13"
+            ></Button>
+        <Button
+            android:id="@+id/ci2"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:background="@mipmap/pokerback"
+            android:textColor="#FF0000"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="200px"
+            android:text="13"
+            ></Button>
+        <Button
+            android:id="@+id/ci3"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:background="@mipmap/pokerback"
+            android:textColor="#FF0000"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="200px"
+            android:text="13"
+            ></Button>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="bottom">
+        <ImageButton
+            android:id="@+id/co1"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+
+
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/co2"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="-180px"
+
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/co3"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+
+            android:layout_marginLeft="-180px"
+
+
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/co4"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="-180px"
+
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/co5"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="-180px"
+
+
+            ></ImageButton>
+
+        <ImageButton
+            android:id="@+id/co6"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="40px"
+
+            ></ImageButton>
+
+        <ImageButton
+            android:id="@+id/co7"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="-180px"
+
+            ></ImageButton>
+
+        <ImageButton
+            android:id="@+id/co8"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="-180px"
+
+            ></ImageButton>
+
+        <ImageButton
+            android:id="@+id/co9"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="-180px"
+
+            ></ImageButton>
+
+        <ImageButton
+            android:id="@+id/co10"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="-180px"
+
+            ></ImageButton>
+
+
+        <ImageButton
+            android:id="@+id/co11"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="40px"
+
+            ></ImageButton>
+
+        <ImageButton
+            android:id="@+id/co12"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="-180px"
+
+            ></ImageButton>
+
+        <ImageButton
+            android:id="@+id/co13"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="-180px"
+
+            ></ImageButton>
+
+        <ImageButton
+            android:id="@+id/co14"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="-180px"
+
+            ></ImageButton>
+
+        <ImageButton
+            android:id="@+id/co15"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-30px"
+            android:layout_marginLeft="-180px"
+
+
+            ></ImageButton>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="bottom">
+        <ImageButton
+            android:id="@+id/o1"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginBottom="-40px"
+
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/o2"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginBottom="-40px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/o3"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginBottom="-40px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/o4"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginBottom="-40px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/o5"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginBottom="-40px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/o6"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-190px"
+            android:layout_marginBottom="-40px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/o7"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginBottom="-40px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/o8"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginBottom="-40px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/o9"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginBottom="-40px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/o10"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginBottom="-40px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/o11"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginBottom="-40px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/o12"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginBottom="-40px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/o13"
+            android:layout_width="220px"
+            android:layout_height="330px"
+
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginBottom="-40px"
+            ></ImageButton>
+        <ImageButton
+
+            android:id="@+id/win"
+            android:layout_width="500px"
+            android:layout_height="280px"
+
+            android:layout_marginLeft="-500px"
+
+            android:layout_marginBottom="0px"
+            android:visibility="visible"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/win"
+
+            ></ImageButton>
+        <ImageButton
+
+            android:id="@+id/lost"
+            android:layout_width="500px"
+            android:layout_height="280px"
+
+            android:layout_marginLeft="-500px"
+
+            android:layout_marginBottom="0px"
+            android:visibility="visible"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/lost"
+
+
+            ></ImageButton>
+        <Button
+            android:layout_width="200px"
+            android:layout_height="200px"
+            android:text="跳过"
+            android:layout_marginLeft="100px"
+            android:layout_marginBottom="0px"
+            android:id="@+id/pass"
+            android:onClick="poker_pass"
+
+            ></Button>
+
+    </LinearLayout>
+
+
+
+
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="bottom">
+        <ImageButton
+            android:id="@+id/m1"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/m2"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/m3"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/m4"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/m5"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/m6"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-190px"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/m7"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/m8"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/m9"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/m10"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/m11"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/m12"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/m13"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            android:layout_marginTop="30px"
+            ></ImageButton>
+        <Button
+            android:layout_width="200px"
+            android:layout_height="200px"
+            android:text="出牌"
+            android:layout_marginLeft="100px"
+            android:layout_marginBottom="30px"
+            android:id="@+id/out"
+            android:onClick="poker_out"
+
+            ></Button>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="bottom">
+        <ImageButton
+            android:id="@+id/p1"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+
+
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/p2"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/p3"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/p4"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/p5"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/p6"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/p7"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/p8"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/p9"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/p10"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/p11"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/p12"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            ></ImageButton>
+        <ImageButton
+            android:id="@+id/p13"
+            android:layout_width="220px"
+            android:layout_height="330px"
+            android:onClick="ClickPoker"
+            android:scaleType="centerCrop"
+            android:layout_marginLeft="-180px"
+            ></ImageButton>
+
+        <Button
+            android:layout_width="200px"
+            android:layout_height="200px"
+            android:text="收牌"
+            android:layout_marginLeft="100px"
+            android:layout_marginBottom="30px"
+            android:id="@+id/in"
+            android:onClick="poker_in"
+            ></Button>
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>
+
+
